@@ -1,0 +1,25 @@
+{
+  "name": "Directorio Sismo — Venezuela",
+  "short_name": "Directorio Sismo",
+  "description": "Recursos verificados para ayudar a las víctimas del terremoto en Venezuela. Funciona sin conexión.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#0f2c52",
+  "theme_color": "#0f2c52",
+  "lang": "es",
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
