@@ -5,6 +5,9 @@
     "aviso": "💚 La salud mental también es una emergencia. Si tu vida o la de alguien corre riesgo, llama al 911 de inmediato — estos servicios brindan apoyo emocional, no atienden crisis en tiempo real.",
     "items": [
       {
+        "header": "🏥 Salud física y médica"
+      },
+      {
         "icon": "🏥",
         "tag": "Salud",
         "h": "Hospitales en Venezuela",
@@ -17,13 +20,6 @@
         "h": "Contigo Venezuela – Apoyo Integral",
         "d": "Plataforma de apoyo integral para afectados: recursos de salud, bienestar y solidaridad comunitaria.",
         "url": "https://contigo-venezuela.netlify.app/"
-      },
-      {
-        "icon": "🧠",
-        "tag": "Salud Mental",
-        "h": "Escucha Activa – Apoyo Psicológico",
-        "d": "Asistencia psicológica gratuita para afectados. Psicólogos voluntarios disponibles para escucharte.",
-        "url": "https://escuchactiva.com/"
       },
       {
         "icon": "👨‍⚕️",
@@ -54,25 +50,14 @@
         "url": "https://drive.google.com/drive/folders/1-VDUL2cSp9pvvu5eV9XXY8gEWdLLZsbb"
       },
       {
-        "icon": "🧩",
-        "tag": "Apoyo Especializado",
-        "h": "Organización Venezolana de Autismo – Registro",
-        "d": "Registro para familias con personas en el espectro autista para canalizar ayuda especializada tras el sismo.",
-        "url": "https://docs.google.com/forms/d/e/1FAIpQLSd8J8QcqHyNAu2ryh5Mxht2lT39UCg-i0O6Lzue9Mmsk_G5dg/viewform"
+        "header": "🧠 Salud mental y apoyo psicológico"
       },
       {
         "icon": "🧠",
-        "tag": "Apoyo Especializado",
-        "h": "Guía Sensorial para Personas TEA en Refugios",
-        "d": "Recomendaciones prácticas para acompañar a personas con autismo en centros de acopio y refugios.",
-        "url": "https://drive.google.com/file/d/1q4ImygHJwuv671n0N5r0rsKPQ4wFtRfP/view?usp=sharing"
-      },
-      {
-        "icon": "🧩",
-        "tag": "TEA · Recomendado",
-        "h": "Guardianes Azules – Especialistas en TEA",
-        "d": "Equipo interdisciplinario especializado en autismo (TEA) y neurodesarrollo. WhatsApp +52 56 1823 4332.",
-        "url": "https://wa.me/525618234332"
+        "tag": "Salud Mental",
+        "h": "Escucha Activa – Apoyo Psicológico",
+        "d": "Asistencia psicológica gratuita para afectados. Psicólogos voluntarios disponibles para escucharte.",
+        "url": "https://escuchactiva.com/"
       },
       {
         "icon": "🌿",
@@ -143,6 +128,30 @@
         "h": "Nido – Buscador de Apoyo Psicológico",
         "d": "Buscador interactivo gratuito por especialidad o cómo te sientes; reúne todas las organizaciones aliadas.",
         "url": "https://saludmental-venezuela.com/profesionales"
+      },
+      {
+        "header": "🧩 Apoyo especializado — TEA y autismo"
+      },
+      {
+        "icon": "🧩",
+        "tag": "Apoyo Especializado",
+        "h": "Organización Venezolana de Autismo – Registro",
+        "d": "Registro para familias con personas en el espectro autista para canalizar ayuda especializada tras el sismo.",
+        "url": "https://docs.google.com/forms/d/e/1FAIpQLSd8J8QcqHyNAu2ryh5Mxht2lT39UCg-i0O6Lzue9Mmsk_G5dg/viewform"
+      },
+      {
+        "icon": "🧠",
+        "tag": "Apoyo Especializado",
+        "h": "Guía Sensorial para Personas TEA en Refugios",
+        "d": "Recomendaciones prácticas para acompañar a personas con autismo en centros de acopio y refugios.",
+        "url": "https://drive.google.com/file/d/1q4ImygHJwuv671n0N5r0rsKPQ4wFtRfP/view?usp=sharing"
+      },
+      {
+        "icon": "🧩",
+        "tag": "TEA · Recomendado",
+        "h": "Guardianes Azules – Especialistas en TEA",
+        "d": "Equipo interdisciplinario especializado en autismo (TEA) y neurodesarrollo. WhatsApp +52 56 1823 4332.",
+        "url": "https://wa.me/525618234332"
       },
       {
         "icon": "💙",
@@ -353,13 +362,6 @@
         "h": "Venezuela Reporta – Centros de Salud y Refugios",
         "d": "Búsqueda de personas afectadas en centros de salud y refugios registrados.",
         "url": "https://venezuelareporta.org/"
-      },
-      {
-        "icon": "🗂️",
-        "tag": "Hospitalizados",
-        "h": "Busca en Listas VZla",
-        "d": "Escribe nombre, apellido o cédula — los buscamos en listas de hospitales y refugios.",
-        "url": "https://buscaenlistasvzla.info/"
       },
       {
         "icon": "👥",
@@ -741,7 +743,7 @@
         "tag": "Niñez",
         "h": "Fundación Red de Casas Don Bosco",
         "d": "Obra salesiana sólida con presencia nacional real, protección de niñez.",
-        "url": "https://www.donbosco.org.ve/"
+        "url": "https://www.instagram.com/reddecasasdonboscovzla/"
       },
       {
         "icon": "🧒",
@@ -790,7 +792,7 @@
         "tag": "Religiosa",
         "h": "Cáritas Arquidiocesana de Barquisimeto",
         "d": "Cáritas diocesana de Lara, estado afectado vecino al epicentro.",
-        "url": "https://www.caritas.org.ve/"
+        "url": "https://caritasvenezuela.org/"
       },
       {
         "icon": "⛪",
@@ -846,7 +848,7 @@
         "tag": "Religiosa · Venezuela",
         "h": "A.C. Cáritas de Venezuela",
         "d": "Red católica capilar con respuesta activa al sismo.",
-        "url": "https://www.caritas.org.ve/"
+        "url": "https://caritasvenezuela.org/"
       },
       {
         "icon": "✝️",
@@ -881,14 +883,14 @@
         "tag": "Religiosa · EE.UU.",
         "h": "Greater Miami Jewish Federation",
         "d": "Federación judía de Miami con 80+ años (4 estrellas Charity Navigator).",
-        "url": "https://miamijewish.org/"
+        "url": "https://jewishmiami.org/"
       },
       {
         "icon": "🆘",
         "tag": "Humanitaria",
         "h": "Socorro y Emergencias CADENA A.C.",
         "d": "Comité de Ayuda a Desastres y Emergencias Nacionales con equipo en Venezuela desde 2022.",
-        "url": "https://www.cadenaac.org/"
+        "url": "https://donate.cadena.ngo/venezuelaearthquake"
       },
       {
         "icon": "🇪🇸",
@@ -909,14 +911,14 @@
         "tag": "Humanitaria · EE.UU.",
         "h": "Venezuelan American Chamber of Commerce Foundation",
         "d": "Brazo benéfico 501(c)(3) de la cámara empresarial venezolana en Florida.",
-        "url": "https://www.venezuelaamericanchamber.com/"
+        "url": "https://www.venezuelanchamber.org/"
       },
       {
         "icon": "🌎",
         "tag": "Humanitaria · EE.UU.",
         "h": "Global Empowerment Mission",
         "d": "ONG internacional trazable y segura.",
-        "url": "https://gem.ngo/"
+        "url": "https://www.globalempowermentmission.org/"
       },
       {
         "icon": "🌍",
@@ -1323,7 +1325,7 @@
         "tag": "Servicios",
         "h": "Espacio Raíz Consciente",
         "d": "Servicios de apoyo y transporte para afectados. Solicita o coordina ayuda logística en tu zona.",
-        "url": "https://ayuda.espacioraizconsciente.com/"
+        "url": "https://espacioraizconsciente.com/"
       },
       {
         "icon": "📞",
